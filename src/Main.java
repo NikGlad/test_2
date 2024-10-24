@@ -40,11 +40,3 @@ Task3
 Task4  Полнометражная картина
 */
 
-public class Main {
-    public static void main(String[] args) {
-        int intValue = 2;
-        int numericValue = 3;
-        int size = 4;
-        int number = 5;
-    }
-}
